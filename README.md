@@ -70,4 +70,4 @@ By building this project, I improved my understanding of:
 
 ## Author
 
-**Simran**
+**Simran Malhotra**
